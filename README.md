@@ -1,5 +1,7 @@
 # EXP-6
 EXP No. :6 			CHARACTERISTICS M OF LVDT
+## Name: Nivetha N
+## Reg.no: 212225040290
 AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
 
@@ -16,8 +18,17 @@ I. Connect the multimeter at the output of kit..
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
 
+<img width="1008" height="800" alt="Screenshot 2026-05-24 162913" src="https://github.com/user-attachments/assets/b195a664-491d-4550-ba07-ff606c215153" />
+
+<img width="1037" height="806" alt="Screenshot 2026-05-24 162925" src="https://github.com/user-attachments/assets/4a562000-2a98-4d95-a92e-64eaf2ad9c4a" />
+
+<img width="739" height="1280" alt="WhatsApp Image 2026-05-24 at 4 31 17 PM" src="https://github.com/user-attachments/assets/2128002a-ce92-4c18-8614-e87470f778c3" />
+
+
 
 OBSERVATION TABLE
+<img width="1048" height="672" alt="Screenshot 2026-05-24 163031" src="https://github.com/user-attachments/assets/b9fcab36-3159-4f45-9627-1e98f5735f5a" />
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
